@@ -1,0 +1,36 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "Exemplo de Vídeo 1",
+      "category": "Frontend",
+      "image": "/images/video1.jpg",
+      "video": "https://www.youtube.com/watch?v=video1",
+      "description": "Descrição do Vídeo 1"
+    },
+    {
+      "id": 2,
+      "title": "Exemplo de Vídeo 2",
+      "category": "Backend",
+      "image": "/images/video2.jpg",
+      "video": "https://www.youtube.com/watch?v=video2",
+      "description": "Descrição do Vídeo 2"
+    },
+    {
+      "id": 3,
+      "title": "Exemplo de Vídeo 3",
+      "category": "Inovação",
+      "image": "/images/video3.jpg",
+      "video": "https://www.youtube.com/watch?v=video3",
+      "description": "Descrição do Vídeo 3"
+    },
+    {
+      "id": 4,
+      "title": "Exemplo de Vídeo 4",
+      "category": "Gestão",
+      "image": "/images/video4.jpg",
+      "video": "https://www.youtube.com/watch?v=video4",
+      "description": "Descrição do Vídeo 4"
+    }
+  ]
+}

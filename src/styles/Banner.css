@@ -1,0 +1,11 @@
+/* src/components/Banner.css */
+
+.banner {
+  margin-bottom: 20px;
+}
+
+.banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+}

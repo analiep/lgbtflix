@@ -1,0 +1,58 @@
+.new-video {
+  padding: 2rem;
+}
+
+.new-video h2 {
+  color: #333;
+}
+
+.new-video form {
+  display: grid;
+  gap: 1rem;
+}
+
+.new-video form label {
+  font-weight: bold;
+}
+
+.new-video form input,
+.new-video form select,
+.new-video form textarea {
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+.new-video form .form-buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.new-video form .form-buttons button {
+  background-color: limegreen;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  margin-left: 1rem;
+}
+
+.new-video form .form-buttons button:hover {
+  background-color: #32cd32;
+}
+
+.new-video form .form-buttons button:last-child {
+  background-color: #333;
+}
+
+.new-video form .form-buttons button:last-child:hover {
+  background-color: #555;
+}
+
+.new-video form .form-buttons button:focus {
+  outline: none;
+}
+
+.new-video form .form-buttons button:active {
+  transform: translateY(1px);
+}

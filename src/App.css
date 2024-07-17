@@ -1,0 +1,9 @@
+/* Estilos globais ou específicos do App podem ser definidos aqui */
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Garante que o conteúdo ocupe toda a altura da tela */
+}
+
+/* Outros estilos específicos podem ser adicionados conforme necessário */

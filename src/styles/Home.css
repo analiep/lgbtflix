@@ -1,0 +1,23 @@
+.home {
+    padding: 2rem;
+  }
+  
+  .category {
+    margin-bottom: 2rem;
+  }
+  
+  .category h2 {
+    color: #333;
+  }
+  
+  .video-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  @media (min-width: 768px) {
+    .video-list {
+      gap: 1rem;
+    }
+  }
+  
